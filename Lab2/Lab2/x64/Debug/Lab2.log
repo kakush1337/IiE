@@ -1,0 +1,6 @@
+﻿  zad.c
+C:\Users\kakusz\Desktop\IiE\Lab2\Lab2\zad.c(15,11): warning C4477: 'scanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double *'
+C:\Users\kakusz\Desktop\IiE\Lab2\Lab2\zad.c(15,11): message : consider using '%lf' in the format string
+C:\Users\kakusz\Desktop\IiE\Lab2\Lab2\zad.c(28,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kakusz\Desktop\IiE\Lab2\Lab2\zad.c(29,6): warning C4101: 'liczba': unreferenced local variable
+  Lab2.vcxproj -> C:\Users\kakusz\Desktop\IiE\Lab2\x64\Debug\Lab2.exe
